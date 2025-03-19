@@ -26,6 +26,8 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+Proyek ini juga digunakan sebagai bahan ajar untuk anak magang.
+
 ## Project setup
 
 ```bash
